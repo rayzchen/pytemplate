@@ -9,4 +9,4 @@ sphinx-build -b html docs/source docs/build/html
 git add .
 git commit -m %1
 git push
-pip install --upgrade dist/pytemplate-0.0.3-py3-none-any.whl
+pip install --upgrade dist/pytemplate-0.0.1-py3-none-any.whl
